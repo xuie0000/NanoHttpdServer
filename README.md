@@ -8,3 +8,9 @@
 - WebSocket
 输入`ws://<你ip>:8766`
 ![wsd效果](./screenshort2.png)
+
+*参考*
+
+https://github.com/lopspower/AndroidWebServer
+https://github.com/Foso/JKWebsocket
+
